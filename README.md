@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aamirmasood0102
-- 👀 I’m interested in Full Stack Web Developer
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on challenges at frontend mentor
 - 📫 How to reach me
